@@ -61,6 +61,7 @@
 //int main()
 //{
 //	int i, j = 0;         //FGHXDFHSS
+//不回家换个 好看
 //	char a[80] = {}, b[80] = {}, c[40] = {};
 //	scanf("%s", a);   
 //
