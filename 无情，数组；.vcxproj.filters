@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="浮点型数组最小数值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最小值数在数列中粗线的位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="干货  ！！！！  求数组中最大的一个数     （最大值最小值法）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵中求最大元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算并输出数列中非负数的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算并输出3x3矩阵中主对角线元数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算数列中所有正数的平均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求矩阵的转置矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="！ 有点东西 矩阵的初等变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="死了一片脑细胞      ...数组的部分逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串拼接.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组元素做函数实参      求     数组中最大元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串奇数位置比较大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数列排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针变量作为函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串中字母的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
