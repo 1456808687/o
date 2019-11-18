@@ -60,9 +60,9 @@
 //#include<string.h>
 //int main()
 //{
-//	int i, j = 0;
+//	int i, j = 0;         //FGHXDFHSS
 //	char a[80] = {}, b[80] = {}, c[40] = {};
-//	scanf("%s", a);
+//	scanf("%s", a);   
 //
 //
 //	scanf("%s", b);
